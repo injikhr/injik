@@ -2,8 +2,8 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/70872563/168000253-3984386c-6b57-45b7-a52e-b987e644c9b9.png"
-  width="200" height="100"/>
+![Banner](./docs/images/Banner.png)
+
 <br/>
 
 ### 🚀 프로젝트명
